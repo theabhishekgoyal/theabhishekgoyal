@@ -29,13 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theabhishekgoyal&" alt="theabhishekgoyal" /></p>
 
-### EDUCATION
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="[https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/42e12c05-e053-407a-a114-35a5e341ecd3?raw=true](https://upload.wikimedia.org/wikipedia/en/c/c6/Indian_Institute_of_Information_Technology%2C_Bhagalpur_logo.png?20220209144918)"/>]()
 
-**INDIAN INSTITUTE OF INFORMATION TECHNOLOGY BHAGALPUR** 
-[**IITB**](https://www.iiitbh.ac.in/) \
-• B.Tech in Computer Science and Engineering (2021-25) \
-• CGPA - 7.76
 
 
 
