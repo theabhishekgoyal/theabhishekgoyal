@@ -36,13 +36,15 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theabhishekgoyal&show_icons=true&locale=en&layout=compact" alt="theabhishekgoyal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theabhishekgoyal&show_icons=true&locale=en" alt="theabhishekgoyal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theabhishekgoyal&" alt="theabhishekgoyal" /></p>
 
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theabhishekgoyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=theabhishekgoyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=theabhishekgoyal&theme=dark&hide_border=false)<br/>
 
 
 
